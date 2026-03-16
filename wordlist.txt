@@ -1,0 +1,13 @@
+1,tree,PYGMYMAPLE
+2,thing,COMPUTER
+3,thing,LAPTOP
+4,thing,MOUSE
+5,thing,KEYBOARD
+6,thing,FOLDER
+7,thing,PICTURE
+8,thing,TABLE
+9,thing,BOOKMARK
+10,name,TOMSAWYER
+11,name,HUCKLEBERRYFINN
+12,noun,GUITAR
+
